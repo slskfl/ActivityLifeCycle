@@ -1,0 +1,4 @@
+include ':spalshactivityex2'
+include ':splashactivityex1'
+include ':app'
+rootProject.name = "ActivityLifeCycle"
